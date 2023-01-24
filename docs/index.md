@@ -1,22 +1,15 @@
-# Welcome to MkDocs
+# Designing Plus Dev
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Designing Plus NineでWebのチュートリアルを作成するために制作されたサイトです。
 
-## Commands
+## 目次
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-    
-    ```java:title
-        code
-        console.log("hello");
-    ```
+0. ハンズオン -Webの世界を見てみよう-
+1. 環境構築 -VScode編-
+2. GitHubを知ろう -俺も知りたい-
+3. バニラでWebを作ろう
+    1. html編
+    2. css編
+    3. javascript編
+4. Reactを使おう
+5. 道場
